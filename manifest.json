@@ -6,7 +6,7 @@
     "theme_color": "red",
     "background_color": "blue",
     "description": "Kahit ano",
-    "serverworker":"sw.js",
+    "serverworker":"serverworker.js",
     "icons": [
       {
         "src": "images/web/icon-192.png",
